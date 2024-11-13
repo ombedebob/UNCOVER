@@ -96,13 +96,8 @@ body{
 }
 
 .image-section img{
-  width: 100%;
-  transition: transform 0.3s ease;
+  width: max-content;
 }
-.image-section img:hover{
-  transform: scale(1.1);
-}
-
 
 /*Description Section*/
 
